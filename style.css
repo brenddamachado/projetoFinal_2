@@ -12,14 +12,18 @@ body{
 li{
     list-style: none;
 }
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 60px 30px;
+}
 
 .header-menu{
     display: flex;
     position: fixed; 
     width: 100%; 
     padding: 8px; 
-    padding-bottom: 32px; 
-    padding-top: 32px;
+    
     height: 60px; 
     background-color: #724796; 
 }
@@ -54,7 +58,7 @@ li{
   .container {
     margin-right: auto; 
     margin-left: auto;
-    margin-top: 75px; 
+     
     max-width: 960px; 
     padding-right: 10px; 
     padding-left: 10px; 
