@@ -16,6 +16,7 @@ img{
     width: 150px;
     height: 150px;
     border-radius: 60px 30px;
+    padding-top: 1rem;
 }
 
 .header-menu{
@@ -24,7 +25,7 @@ img{
     width: 100%; 
     padding: 8px; 
     
-    height: 60px; 
+    height: 45px; 
     background-color: #724796; 
 }
 .header-menu nav {
@@ -52,6 +53,7 @@ img{
     height: 100vh;
     display: flex;
     background-color: #EAEAEA;
+   
   }
   
  
@@ -79,9 +81,11 @@ img{
     color: #ff4dbc;
     font-weight: 700; 
     height: 45px;
+
   }
   
   .profissao{
+    
     color: #C6B5D5;
     height: 60PX;
   }
@@ -99,8 +103,9 @@ img{
   }
   
   .topico-principal {
-    font-size: 36px;
+    font-size:30px;
     color: #ff4dbc;
+    
   }
   
   .lista-item{
@@ -115,6 +120,7 @@ img{
    font-size: 22px;
    color: #661e4b;
    font-weight: 700;
+   padding-bottom: 1rem;
   }
   
   .lista-local{
