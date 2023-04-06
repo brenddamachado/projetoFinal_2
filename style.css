@@ -110,6 +110,7 @@ img{
   
   .lista-item{
     padding: 32px;
+    
   }
   
   .lista-item ul li {
@@ -128,8 +129,10 @@ img{
   .lista-local{
     font-size: 18px;
     color: #2F80ED;
+   
     
   }
+ 
   
   .lista-descricao {
     font-size: 18px;
@@ -141,7 +144,7 @@ img{
   
   .rodape{
     background-color: #724796;
-    height: 300px;
+    height: 250px;
     display: flex;
     align-items: center;
   }
