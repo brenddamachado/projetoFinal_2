@@ -122,7 +122,9 @@ img{
    font-weight: 700;
    
   }
-  
+  hr{
+    margin-bottom: 10px;
+  }
   .lista-local{
     font-size: 18px;
     color: #2F80ED;
