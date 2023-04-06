@@ -120,7 +120,7 @@ img{
    font-size: 22px;
    color: #661e4b;
    font-weight: 700;
-   padding-bottom: 1rem;
+   
   }
   
   .lista-local{
@@ -131,7 +131,7 @@ img{
   
   .lista-descricao {
     font-size: 18px;
-    margin-top: 5px;
+    margin-top: 15px;
     line-height: 20px;
     color: #828282;
     font-weight: 300;
