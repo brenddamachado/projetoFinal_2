@@ -162,3 +162,80 @@ img{
    font-size: 32px;
    margin-right: 10px;
   }
+
+  
+  @media screen and (max-width: 600px) {
+    img {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+    }
+}
+@media screen and (max-width: 600px) {
+  .nome-completo {
+      font-size: 24px;
+  }
+  .profissao {
+      font-size: 16px;
+  }
+  .texto-sobre {
+      font-size: 16px;
+      line-height: 24px;
+  }
+  .topico-principal {
+      font-size: 24px;
+  }
+  .lista-titulo {
+      font-size: 18px;
+  }
+  .lista-local {
+      font-size: 16px;
+  }
+  .lista-descricao {
+      font-size: 14px;
+      line-height: 16px;
+  }
+  .lista-rodape li {
+      font-size: 16px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .lista-menu {
+      width: 80%;
+  }
+}
+@media screen and (max-width: 600px) {
+  .header-menu {
+      flex-direction: column;
+      align-items: center;
+      height: auto;
+  }
+  .lista-menu {
+      margin-top: 16px;
+      width: 100%;
+      justify-content: center;
+  }
+  .lista-menu li {
+      margin: 0 8px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .container {
+      padding: 0;
+      max-width: none;
+      width: 100%;
+  }
+}
+@media screen and (max-width: 600px) {
+  .article-lista {
+      margin-top: 50px;
+      margin-bottom: 50px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .lista-rodape li {
+      margin: 0 8px;
+      font-size: 16px;
+  }
+}
