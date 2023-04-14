@@ -129,11 +129,13 @@ img{
   .lista-local{
     font-size: 18px;
     color: #2F80ED;
-   
     
   }
  
-  
+a{
+  color: white;
+
+}
   .lista-descricao {
     font-size: 18px;
     margin-top: 15px;
